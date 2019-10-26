@@ -1,0 +1,13 @@
+Exercice 1: 4/4
+
+Exercice 2: 4/4
+	
+Exercice 3: 4/4
+	
+Exercice 4: 4/4
+
+Exercice 5: 2/4
+	- Le programme n'est pas complet et ne fait pas ce qui est demandé.
+	- Essayer avec les valeurs 2 1 et 3.
+	
+Exercice 6: 4/4
